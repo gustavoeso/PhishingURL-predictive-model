@@ -30,6 +30,6 @@ Este projeto foi desenvolvido como parte da disciplina **Big Data para Dados Pú
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/phishing-url-detector.git
+   git clone https://github.com/gustavoeso/PhishingURL-predictive-model.git
    ```
 2. Execute os notebooks disponíveis no repositório para realizar o treinamento e validação do modelo.
